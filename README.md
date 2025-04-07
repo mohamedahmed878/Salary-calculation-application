@@ -1,1 +1,0 @@
-# Salary-calculation-application
